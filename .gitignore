@@ -21,3 +21,12 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+.DS_Store
+*.bin
+*.lock
+*.properties
+*.xml
+concur/build.gradle
+concur/gradlew
+concur/gradlew.bat
+concur/settings.gradle
